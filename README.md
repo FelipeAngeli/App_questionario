@@ -1,10 +1,10 @@
 # projeto_questionario
 
 App Questionario, criado no curso de desenvolvimento em Flutter.
-<img src="img/print1.png" width="214" height="376" />
-<img src="img/print2.png" width="214" height="376" />
-<img src="img/print3.png" width="214" height="376" />
-<img src="img/print4.png" width="214" height="376" />
+<img src="img/print1.png" width="114" height="376" />
+<img src="img/print2.png" width="114" height="376" />
+<img src="img/print3.png" width="114" height="376" />
+<img src="img/print4.png" width="114" height="376" />
 
 Your new repository will be created as app-questionarios
 ## Getting Started
