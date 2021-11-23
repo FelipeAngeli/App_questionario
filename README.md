@@ -1,4 +1,4 @@
-# projeto_perguntas
+# projeto_questionario
 
 App Questionario, criado no curso de desenvolvimento em Flutter.
 ![Getting Started](img/print1.png)
